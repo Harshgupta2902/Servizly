@@ -193,12 +193,13 @@ String service = "";
 
                                         },
                                         child: Container(
+                                          padding: EdgeInsetsDirectional.symmetric(horizontal: 10),
                                           decoration: BoxDecoration(
                                             borderRadius: BorderRadius.circular(25),
                                             border: Border.all(color: Colors.grey)
                                           ),
                                           height: 40,
-                                          width: 180,
+                                          // width: 180,
                                           child: Center(
                                             child: Row(
                                               mainAxisAlignment: MainAxisAlignment.center,
@@ -232,13 +233,14 @@ String service = "";
                                           );
                                         },
                                         child: Container(
+                                          padding: EdgeInsetsDirectional.symmetric(horizontal: 10),
+
                                           decoration: BoxDecoration(
                                               borderRadius: BorderRadius.circular(25),
                                             color: Color(0xFF07A9B1),
 
                                           ),
                                           height: 40,
-                                          width: 100,
                                           child: Center(
                                             child: Text(S.of(context).Reschedule,
                                                 style: GoogleFonts.poppins(
