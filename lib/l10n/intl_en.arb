@@ -1,0 +1,138 @@
+{
+
+  "NoDataFound": "No Data Found",
+  "NoDetailsFound": "No Details Found",
+  "Exit": "Do you want to exit?",
+
+  "Mobileno": "Mobile no.",
+  "Submit": "Submit",
+  "Pleaseenternumber": "Please enter number",
+  "Numberlimit": "Number must be of 10 digit",
+
+  "EnterOTP": "EnterOTP",
+  "OTPExpire": "OTP Expires in: ",
+  "ResendOtp": "Resend OTP",
+
+  "EnableLocationPermission": "Enable Location Permission",
+  "Loationdescription": "We want to access your location to provide a better experience by helping you find partners nearby",
+  "AllowLocation": "Allow Location",
+
+  "Services": "Services",
+  "SpecialOffers": "Special Offers",
+  "GetInspiredwithServizly": "Get Inspired \nwith Servizly",
+  "Hair": "Hair",
+  "Barber": "Barber",
+  "Nails": "Nails",
+  "Skin": "Skin",
+  "Tattoo": "Tattoo",
+  "MostBookedServices": "Most Booked Services",
+  "ViewFullServices": "View Full Services",
+
+
+  "Home": "Home",
+  "Explore": "Explore",
+  "Appointments": "Appointments",
+  "Settings": "Settings",
+
+  "WhatServicesyouarelookingfor": "What Services you are looking for?",
+  "Where": "Where",
+  "When": "When",
+  "Filters": "Filters",
+  "SortbyRecommended": "Sort by: Recommended",
+  "NoResultFound": "No Result Found",
+
+  "Ongoing": "Ongoing",
+  "History": "History",
+  "CancelAppointments": "Cancel Appointments",
+  "Reschedule": "Reschedule",
+  "ServiceComplete": "Service Completed",
+  "Refund": "Refund",
+
+  "Profile": "Profile",
+  "Name": "Name",
+  "MobileNumber": "Mobile Number",
+  "EmailAddress": "Email Address",
+  "Update": "Update",
+
+
+  "AddAddress": "Add Address",
+  "SearchLocation": "Search Location",
+  "HouseFlat": "House/Flat",
+  "Landmark": "Landmark",
+  "other": "other",
+  "Continue": "Continue",
+  "EnterAddress": "Enter Address",
+  "EnterLandmark": "Enter Landmark",
+
+  "MyReviews": "My Reviews",
+
+  "Language": "Language",
+  "English": "English",
+  "Hindi": "Hindi",
+
+  "TermsAndCondition": "Terms And Condition",
+
+  "AboutUs": "About Us",
+
+  "HelpCenter": "Help Center",
+  "WriteSomething": "Write Something",
+  "writesomemessages": "write some messages",
+
+  "DeleteAccount": "Delete Account",
+  "WantToDelete": "Want To Delete?",
+  "Cancel": "Cancel",
+  "Delete": "Delete",
+
+  "log_Out": "Log Out",
+
+  "Services": "Services",
+  "Book": "Book",
+  "Reviews": "Reviews",
+  "Portfolio": "Portfolio",
+  "details": "Details",
+
+  "Basedon": "Based on",
+  "Contactno": "Appointments",
+  "Monday": "Appointments",
+  "Tuesday": "Appointments",
+  "Wednesday": "Appointments",
+  "Thursday": "Appointments",
+  "Friday": "Appointments",
+  "Saturday": "Appointments",
+  "Sunday": "Appointments",
+
+  "whydoyouwanttoreport": "Why do you want to Report?",
+  "R1": "Something about the person",
+  "R2": "Poor Service",
+  "R3": "Taking Unnecessary Time",
+  "R4": "Lack of Time Management",
+  "R5": "Rude Behaviour",
+
+
+  "BookServices": "BookServices",
+  "AddServices": "AddServices",
+  "ApplyCoupon": "ApplyCoupon",
+  "BillDetails": "BillDetails",
+  "ItemTotal": "ItemTotal",
+  "Discount": "Discount",
+  "GST": "Govt. Taxes & Restaurant Charges (10%)",
+  "Topay": "To Pay",
+  "AtShop": "At Shop",
+  "HomeVisit": "Home Visit",
+
+  "AppointmentDetails": "Appointment Details",
+  "Confirmed": "Your Booking is Confirmed",
+  "pay": "Pay",
+
+  "AddNewAddress": "Add New Address",
+  "ProceedToPay": "Proceed To Pay",
+  "ViewDetailedBill": "View Detailed Bill",
+  "PaymentMethod": "Payment Method",
+  "ViewAll": "View All",
+  "YourPaymentof": "Your Payment of",
+  "isSuccessful": "is Successful",
+
+  "ViewCart": "ViewCart",
+  "EnterCode": "Enter Coupon Code",
+  "Apply": "Apply"
+}

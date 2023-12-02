@@ -1,0 +1,140 @@
+{
+
+  "NoDataFound": "कोई डेटा नहीं मिला",
+  "NoDetailsFound": "कोई विवरण नहीं मिला",
+  "Exit": "Do you want to exit?",
+
+  "Mobileno": "मोबाइल नं.",
+  "Submit": "सबमिट करें",
+  "Pleaseenternumber": "कृपया मोबाइल नंबर दर्ज करें",
+  "Numberlimit": "मोबाइल नंबर 10 अंकों का होना चाहिए",
+
+
+
+  "EnterOTP": "एंटरओटीपी",
+  "OTPExpire": "OTP की समय सीमा समाप्त हो रही है: ",
+  "ResendOtp": "ओटीपी पुनः भेजें",
+
+  "EnableLocationPermission": "स्थान अनुमति सक्षम करें",
+  "Loationdescription": "हम आपके आस-पास के साझेदार ढूंढने में मदद करके बेहतर अनुभव प्रदान करने के लिए आपके स्थान तक पहुंचना चाहते हैं",
+  "AllowLocation": "स्थान की अनुमति दें",
+
+  "Services": "सेवाएँ",
+  "SpecialOffers": "विशेष ऑफर",
+  "GetInspiredwithServizly": "Servizly से प्रेरित हों",
+  "Hair": "बाल",
+  "Barber": "नाई",
+  "Nails": "नाखून",
+  "Skin": "त्वचा",
+  "Tattoo": "टैटू",
+  "MostBookedServices": "सर्वाधिक बुक की गई सेवाएँ",
+  "ViewFullServices": "पूर्ण सेवाएँ देखें",
+
+
+
+  "Home": "घर",
+  "Explore": "अन्वेषण करें",
+  "Appointments": "नियुक्तियाँ",
+  "Settings": "सेटिंग्स",
+
+  "WhatServicesyouarelookingfor": "आप कौन सी सेवाएँ खोज रहे हैं?",
+  "Where": "कहां ",
+  "When": "कब",
+  "Filters": "फ़िल्टर",
+  "SortbyRecommended": "इसके अनुसार क्रमबद्ध करें: अनुशंसित",
+  "NoResultFound": "कोई परिणाम नहीं मिला",
+
+  "Ongoing": "चल रहा है",
+  "History": "इतिहास",
+  "CancelAppointments": "नियुक्तियाँ रद्द करें",
+  "Reschedule": "पुनर्निर्धारित",
+  "ServiceComplete": "सेवा पूर्ण",
+  "Refund": "रिफंड",
+
+  "Profile": "प्रोफ़ाइल",
+  "Name": "नाम",
+  "MobileNumber": "मोबाइल नंबर",
+  "EmailAddress": "ईमेल पता",
+  "Update": "अपडेट करें",
+
+  "AddAddress": "पता जोड़ें",
+  "SearchLocation": "स्थान खोजें",
+  "HouseFlat": "हाउस/फ़्लैट",
+  "Landmark": "मीलचिह्न",
+  "other": "अन्य",
+  "Continue": "जारी रखें",
+  "EnterAddress": "पता दर्ज करें",
+  "EnterLandmark": "लैंडमार्क दर्ज करें",
+
+  "MyReviews": "मेरी समीक्षाएँ",
+
+  "Language": "भाषा",
+  "English": "अंग्रेजी",
+  "Hindi": "हिन्दी",
+
+  "TermsAndCondition": "नियम और शर्तें",
+
+  "AboutUs": "हमारे बारे में ",
+
+  "HelpCenter": "सहायता केंद्र",
+  "WriteSomething": "कुछ लिखें",
+  "writesomemessages": "कुछ संदेश लिखें",
+
+  "DeleteAccount": "खाता हटाएं",
+  "WantToDelete": "क्या हटाना चाहते हैं?",
+  "Cancel": "रद्द करें",
+  "Delete": "हटाएं",
+
+  "log_Out": "लॉग आउट",
+
+  "Services": "सेवाएँ",
+  "Book": "Book",
+  "Reviews": "समीक्षाएँ",
+  "Portfolio": "पोर्टफोलियो",
+  "details": "विवरण",
+
+  "Basedon": "आधारित",
+  "Contactno": "संपर्क नंबर",
+  "Monday": "सोमवार",
+  "Tuesday": "मंगलवार",
+  "Wednesday": "बुधवार",
+  "Thursday": "गुरुवार",
+  "Friday": "शुक्रवार",
+  "Saturday": "शनिवार",
+  "Sunday": "रविवार",
+
+  "whydoyouwanttoreport": "आप रिपोर्ट क्यों करना चाहते हैं?",
+  "R1": "व्यक्ति के बारे में कुछ",
+  "R2": "खराब सेवा",
+  "R3": "अनावश्यक समय लेना",
+  "R4": "समय प्रबंधन की कमी",
+  "R5": "अशिष्ट व्यवहार",
+
+
+  "BookServices": "सेवाएँ बुक करना",
+  "AddServices": "सेवाएँ जोड़ें",
+  "ApplyCoupon": "कूपन के लिए आवेदन करो",
+  "BillDetails": "बिल विवरण",
+  "ItemTotal": "आइटम का कुल",
+  "Discount": "छूट ",
+  "GST": "सरकारी कर और रेस्तरां शुल्क (10%)",
+  "Topay": "भुगतान करने के लिए",
+  "AtShop": "एट शॉप",
+  "HomeVisit": "घर का दौरा",
+
+  "AppointmentDetails": "नियुक्ति विवरण",
+  "Confirmed": "आपकी बुकिंग की पुष्टि हो गई है",
+  "pay": "भुगतान करें",
+
+  "AddNewAddress": "नया पता जोड़ें",
+  "ProceedToPay": "भुगतान करने के लिए आगे बढ़ें",
+  "ViewDetailedBill": "विस्तृत बिल देखें",
+  "PaymentMethod": "भुगतान विधि",
+  "ViewAll": "सभी देखें",
+  "YourPaymentof": "आपका भुगतान",
+  "isSuccessful": "सफल है",
+
+  "ViewCart": "ViewCart",
+  "EnterCode": "कूपन कोड दर्ज करें",
+  "Apply": "लागू करें"
+}

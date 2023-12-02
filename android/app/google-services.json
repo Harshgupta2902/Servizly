@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369774975967",
+    "project_id": "servizly-bb16b",
+    "storage_bucket": "servizly-bb16b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369774975967:android:f34c56b1ea48e278f9826a",
+        "android_client_info": {
+          "package_name": "com.servizly.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369774975967-fpf3a9cvnlsa4rhf8dmff7qp64u1vsla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.servizly.customer",
+            "certificate_hash": "55a00f9cce705ba0cf86690b464230397c2fd917"
+          }
+        },
+        {
+          "client_id": "369774975967-li14eqhp55jg4tvef1de8jgih89jpvt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QsViZM1rFlpgXcW3OL-yk8eTjBgmOq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369774975967-li14eqhp55jg4tvef1de8jgih89jpvt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
